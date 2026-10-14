@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 01:30 IST",
+  "updated": "2026-10-15 01:45 IST",
   "matters": [
     {
       "id": "waqf-amendment-act",
@@ -128,6 +128,51 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "rahul-gandhi-sir",
+      "title": "SIR — Rahul Gandhi & INDIA bloc leaders' petition",
+      "category": "elections",
+      "issue": "Suspension of the SIR across States, an audit of voter deletions by a committee under a retired SC judge, and whether the CEC can act without the other Election Commissioners.",
+      "parties": "Rahul Gandhi & Ors. v Election Commission of India & Ors.",
+      "case_nos": [
+        "W.P.(C) No. 1351/2026",
+        "Diary No. 64196/2026"
+      ],
+      "match_parties": [],
+      "court": "Chief Justice's Court",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J"
+      ],
+      "next_date": "2026-10-15",
+      "date_status": "listed",
+      "date_text": "",
+      "last_hearing": {
+        "date": "2026-10-12",
+        "outcome": "Petition filed by Rahul Gandhi with ten other INDIA bloc leaders."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/top-stories/opposition-leader-rahul-gandhi-files-writ-petition-in-supreme-court-against-eci-over-sir-process-554285",
+          "date": "2026-10-12"
+        }
+      ],
+      "note": "Fresh matter (for admission); with an intervention application.",
+      "listing": {
+        "date": "2026-10-15",
+        "court": "Chief Justice's Court",
+        "judges": [
+          "Chief Justice",
+          "Joymalya Bagchi J"
+        ],
+        "time": "10:30 AM",
+        "item": "25",
+        "case": "W.P.(C) No. 1351/2026",
+        "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+        "matched_by": "case"
+      }
     },
     {
       "id": "five-year-law-degree",

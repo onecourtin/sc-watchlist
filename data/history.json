@@ -46,5 +46,60 @@
     "source": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
     "by": "check_listings.py",
     "at": "2026-10-15 00:59 IST"
+  },
+  {
+    "at": "2026-10-15 01:45 IST",
+    "id": "rahul-gandhi-sir",
+    "fields": {
+      "added": {
+        "old": null,
+        "new": "matter added at owner's request"
+      }
+    },
+    "source": "https://www.livelaw.in/top-stories/opposition-leader-rahul-gandhi-files-writ-petition-in-supreme-court-against-eci-over-sir-process-554285",
+    "by": "owner"
+  },
+  {
+    "id": "rahul-gandhi-sir",
+    "fields": {
+      "next_date": {
+        "old": null,
+        "new": "2026-10-15"
+      },
+      "date_status": {
+        "old": "not-fixed",
+        "new": "listed"
+      },
+      "court": {
+        "old": "",
+        "new": "Chief Justice's Court"
+      },
+      "bench": {
+        "old": [],
+        "new": [
+          "Chief Justice",
+          "Joymalya Bagchi J"
+        ]
+      },
+      "listing": {
+        "old": null,
+        "new": {
+          "date": "2026-10-15",
+          "court": "Chief Justice's Court",
+          "judges": [
+            "Chief Justice",
+            "Joymalya Bagchi J"
+          ],
+          "time": "10:30 AM",
+          "item": "25",
+          "case": "W.P.(C) No. 1351/2026",
+          "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+          "matched_by": "case"
+        }
+      }
+    },
+    "source": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+    "by": "check_listings.py",
+    "at": "2026-10-15 01:45 IST"
   }
 ]
