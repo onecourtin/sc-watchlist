@@ -1077,6 +1077,113 @@
         "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
         "matched_by": "case"
       }
+    },
+    {
+      "id": "commercial-courts-infrastructure",
+      "title": "Commercial courts — pendency and infrastructure",
+      "category": "profession",
+      "issue": "Time-bound implementation of the Commercial Courts Act, 2015: pending commercial cases, too few commercial courts and benches, and infrastructure gaps across States.",
+      "parties": "Indian Commercial and Arbitration Bar Association v Union of India",
+      "case_nos": [],
+      "match_parties": [
+        "COMMERCIAL AND ARBITRATION BAR"
+      ],
+      "court": "",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J",
+        "V. Mohana J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "High Court compliance reports were due in two weeks; next date not reported",
+      "last_hearing": {
+        "date": "2026-09-24",
+        "outcome": "Updated nationwide data sought; Patna HC given two weeks; notices to the AP, Gujarat, Odisha, Telangana and Tripura High Courts, which had not responded."
+      },
+      "sources": [
+        {
+          "outlet": "Verdictum",
+          "url": "https://www.verdictum.in/supreme-court/nationwide-data-pending-commercial-cases-number-courts-infrastructure-1622638",
+          "date": "2026-09-24"
+        },
+        {
+          "outlet": "Bar & Bench",
+          "url": "https://www.barandbench.com/news/litigation/supreme-court-flags-need-for-more-commercial-courts-seeks-state-wise-data-on-litigation-trends",
+          "date": "2026-08-10"
+        }
+      ],
+      "note": "Case number not yet confirmed."
+    },
+    {
+      "id": "consumer-pecuniary-jurisdiction",
+      "title": "Pecuniary jurisdiction of consumer commissions",
+      "category": "profession",
+      "issue": "Anomalies in fixing consumer-forum jurisdiction by the price paid rather than compensation claimed, and the 2021 cut in the NCDRC's limit from ₹10 crore to ₹2 crore.",
+      "parties": "M/s Avon Elastomers (India) v M/s Bajaj Allianz General Insurance Co. Ltd. & Ors.",
+      "case_nos": [],
+      "match_parties": [
+        "AVON ELASTOMER"
+      ],
+      "court": "",
+      "bench": [
+        "K.V. Viswanathan J",
+        "Arun Palli J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Was listed 8 Oct 2026; next date not yet reported",
+      "last_hearing": {
+        "date": "2026-08-18",
+        "outcome": "Union given six weeks to file an affidavit on the anomalies and explain the 30 Dec 2021 notification."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/supreme-court/supreme-court-flags-anomalies-in-fixing-consumer-fora-jurisdiction-based-on-consideration-paid-seeks-centres-response-546226",
+          "date": "2026-08-18"
+        }
+      ],
+      "note": "Outcome of 8 Oct hearing not yet reported."
+    },
+    {
+      "id": "krishna-janmabhoomi-shahi-idgah",
+      "title": "Krishna Janmabhoomi – Shahi Idgah (Mathura)",
+      "category": "heritage",
+      "issue": "Appeal against the Allahabad HC order letting the suit no. 17 plaintiffs sue on behalf of all devotees; the Court has indicated a remand as notice did not go to all plaintiffs.",
+      "parties": "Bhagwan Shrikrishna Virajman & Ors. v Anjuman Islamia, Committee of Shahi Masjid Idgah & Ors.",
+      "case_nos": [
+        "Diary No. 61169/2025"
+      ],
+      "match_parties": [
+        "BHAGWAN SHRI ?KRISHNA",
+        "SHAHI (MASJID )?I?E?DGAH"
+      ],
+      "court": "",
+      "bench": [
+        "Sanjay Kumar J",
+        "Sanjeev Sachdeva J"
+      ],
+      "next_date": "2026-11-06",
+      "date_status": "fixed",
+      "date_text": "",
+      "last_hearing": {
+        "date": "2026-09-30",
+        "outcome": "Court called the matter \"jinxed\" after repeated adjournments; said it will hear merits; adjourned for paucity of time."
+      },
+      "sources": [
+        {
+          "outlet": "Bar & Bench",
+          "url": "https://www.barandbench.com/news/this-matter-is-jinxed-supreme-court-on-repeated-adjournments-in-krishna-janmabhoomi-shahi-idgah-dispute-plea",
+          "date": "2026-09-30"
+        },
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/top-stories/krishna-janmabhoomi-case-supreme-court-plans-to-remand-to-high-court-dispute-over-who-represents-all-devotees-545452",
+          "date": "2026-08-12"
+        }
+      ],
+      "note": "In July 2026 the parties rejected the Court's proposal to mediate the Mathura, Gyanvapi and Sambhal disputes."
     }
   ]
 }

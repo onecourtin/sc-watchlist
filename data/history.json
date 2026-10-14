@@ -363,5 +363,41 @@
     "source": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
     "by": "check_listings.py",
     "at": "2026-10-15 01:52 IST"
+  },
+  {
+    "at": "2026-10-15 01:58 IST",
+    "id": "commercial-courts-infrastructure",
+    "fields": {
+      "added": {
+        "old": null,
+        "new": "matter added at owner's request"
+      }
+    },
+    "source": "https://www.verdictum.in/supreme-court/nationwide-data-pending-commercial-cases-number-courts-infrastructure-1622638",
+    "by": "owner"
+  },
+  {
+    "at": "2026-10-15 01:58 IST",
+    "id": "consumer-pecuniary-jurisdiction",
+    "fields": {
+      "added": {
+        "old": null,
+        "new": "matter added at owner's request"
+      }
+    },
+    "source": "https://www.livelaw.in/supreme-court/supreme-court-flags-anomalies-in-fixing-consumer-fora-jurisdiction-based-on-consideration-paid-seeks-centres-response-546226",
+    "by": "owner"
+  },
+  {
+    "at": "2026-10-15 01:58 IST",
+    "id": "krishna-janmabhoomi-shahi-idgah",
+    "fields": {
+      "added": {
+        "old": null,
+        "new": "matter added at owner's request"
+      }
+    },
+    "source": "https://www.barandbench.com/news/this-matter-is-jinxed-supreme-court-on-repeated-adjournments-in-krishna-janmabhoomi-shahi-idgah-dispute-plea",
+    "by": "owner"
   }
 ]
