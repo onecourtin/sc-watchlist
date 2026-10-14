@@ -46,5 +46,17 @@
     "source": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
     "by": "check_listings.py",
     "at": "2026-10-15 00:59 IST"
+  },
+  {
+    "at": "2026-10-15 01:30 IST",
+    "id": "shanti-act",
+    "fields": {
+      "note": {
+        "old": "",
+        "new": ""
+      }
+    },
+    "source": "https://www.scobserver.in/cases/challenge-to-provisions-of-the-shanti-act-2025/",
+    "by": "routine"
   }
 ]
