@@ -24,7 +24,7 @@ LiveLaw / Bar & Bench / SCO / SCI ──► daily Claude routine (8 PM IST, week
 |---|---|
 | `id` | Stable slug. Never change it. |
 | `title`, `issue`, `parties` | Short name, one-line question, cause title. |
-| `category` | Subject icon on the page: `elections` · `liberty` · `constitution` · `heritage` · `education` · `criminal` · `nuclear` · `rights` · `profession` · `environment` · `citizenship` · `tax`. |
+| `category` | Subject icon on the page: `elections` · `liberty` · `constitution` · `heritage` · `education` · `criminal` · `nuclear` · `rights` · `profession` · `environment` · `citizenship` · `tax` · `health`. |
 | `case_nos` | Case numbers **as printed in SCI lists** (`W.P.(C) No. 276/2025`, `Diary No. 63858/2026`). Used for matching. |
 | `match_parties` | Regexes tried against `"PETITIONER \| RESPONDENT"` in the list. Only distinctive names; prefer `case_nos`. |
 | `court`, `bench` | e.g. `Chief Justice's Court`, `["Chief Justice", "Joymalya Bagchi J"]`. |

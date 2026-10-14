@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 01:45 IST",
+  "updated": "2026-10-15 01:52 IST",
   "matters": [
     {
       "id": "waqf-amendment-act",
@@ -591,6 +591,492 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "dpdp-act",
+      "title": "Digital Personal Data Protection Act, 2023",
+      "category": "rights",
+      "issue": "Validity of the DPDP Act and Rules, including the dilution of the RTI Act (s.44(3)) and government access to data (s.36).",
+      "parties": "The Reporters' Collective v Union of India; NCPRI v Union of India and connected",
+      "case_nos": [
+        "W.P.(C) No. 177/2026",
+        "W.P.(C) No. 211/2026"
+      ],
+      "match_parties": [
+        "REPORTERS.? COLLECTIVE",
+        "NATIONAL CAMPAIGN FOR PEOPLE"
+      ],
+      "court": "",
+      "bench": [],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Referred to a larger Bench; next date not reported",
+      "last_hearing": {
+        "date": "2026-02-16",
+        "outcome": "Notice issued; no stay of the Act; RTI-amendment pleas referred to a larger Bench."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-refers-pleas-challenging-dpdp-act-amendment-to-rti-act-to-larger-bench-523266",
+          "date": "2026-02-16"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "vande-mataram-mandate",
+      "title": "Vande Mataram six-stanza mandate",
+      "category": "constitution",
+      "issue": "Challenge to the directive mandating all six stanzas of Vande Mataram, as violating secularism.",
+      "parties": "Bhimrao Duryodhan Borkar v Union of India",
+      "case_nos": [
+        "Diary No. 61620/2026"
+      ],
+      "match_parties": [
+        "BHIMRAO DURYODHAN"
+      ],
+      "court": "",
+      "bench": [],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Filed; not yet listed",
+      "last_hearing": null,
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "census-caste-self-declaration",
+      "title": "Census 2027 — caste by self-declaration",
+      "category": "constitution",
+      "issue": "Whether caste can be recorded in the 2027 Census on self-declaration alone, without verifying caste certificates.",
+      "parties": "Petition on caste data collection in Census 2027",
+      "case_nos": [],
+      "match_parties": [],
+      "court": "",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J",
+        "V. Mohana J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Next date not reported",
+      "last_hearing": {
+        "date": "2026-10-12",
+        "outcome": "Union asked to place on record the SOP for collecting and verifying caste data; no notice issued yet."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-asks-union-to-file-standing-operating-procedure-on-data-collection-under-2027-census-plea-against-self-disclosure-without-verification-554299",
+          "date": "2026-10-12"
+        }
+      ],
+      "note": "Case number not yet confirmed."
+    },
+    {
+      "id": "children-social-media",
+      "title": "Children's use of social media",
+      "category": "rights",
+      "issue": "Whether the Centre should frame rules under the IT Act to regulate children's access to social media.",
+      "parties": "Just Rights for Children Alliance v Union of India",
+      "case_nos": [
+        "W.P.(C) No. 1120/2026"
+      ],
+      "match_parties": [],
+      "court": "",
+      "bench": [
+        "Chief Justice"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Next date not reported",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Centre asked to frame rules; Court may issue directions under the IT Act."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "sohrabuddin-acquittal",
+      "title": "Sohrabuddin Shaikh encounter — appeal against acquittal",
+      "category": "criminal",
+      "issue": "Appeal against the acquittal of 22 accused in the Sohrabuddin Shaikh encounter case; 92 witnesses turned hostile.",
+      "parties": "Rubabuddin Shaikh v Central Bureau of Investigation",
+      "case_nos": [
+        "Diary No. 48619/2026"
+      ],
+      "match_parties": [
+        "RUBABUDDIN"
+      ],
+      "court": "",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J",
+        "V. Mohana J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Notice issued; next date not reported",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Notice issued on the appeal."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "ahmedabad-blasts-2008",
+      "title": "2008 Ahmedabad serial blasts — death sentences",
+      "category": "criminal",
+      "issue": "Appeals by convicts sentenced to death for the 2008 Ahmedabad serial blasts.",
+      "parties": "Ahmed Bawa v State of Gujarat and connected",
+      "case_nos": [
+        "Diary No. 58302/2026"
+      ],
+      "match_parties": [
+        "AHMED ?BAWA"
+      ],
+      "court": "",
+      "bench": [
+        "Vikram Nath J",
+        "Sandeep Mehta J",
+        "Augustine George Masih J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Appeal pending; next date not reported",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Execution of death sentence stayed."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "delhi-ncr-rapes-suo-motu",
+      "title": "Rape incidents in Delhi-NCR (suo motu)",
+      "category": "criminal",
+      "issue": "Suo motu case on women's safety after recent rapes in Delhi-NCR: safety audits, patrolling, CCTV and lighting.",
+      "parties": "In Re: Recent Rape Incidents in Delhi NCR",
+      "case_nos": [],
+      "match_parties": [
+        "RAPE INCIDENTS"
+      ],
+      "court": "",
+      "bench": [
+        "J.B. Pardiwala J",
+        "K. Vinod Chandran J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Compliance due in 4 weeks; next date not reported",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Safety audits, patrolling and CCTV/lighting reviews ordered within 4 weeks."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "medicine-mrp-caps",
+      "title": "Cap on medicine MRPs",
+      "category": "health",
+      "issue": "Whether the MRP of medicines should be capped at 16% above the retailer's price.",
+      "parties": "Kishan Chand Jain v EMRB; Dr Sanjay Kulshrestha v Union of India",
+      "case_nos": [
+        "W.P.(C) No. 794/2023",
+        "W.P.(C) No. 717/2026"
+      ],
+      "match_parties": [],
+      "court": "",
+      "bench": [
+        "Vikram Nath J",
+        "Sandeep Mehta J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Next date not reported",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Court asked why MRP should not be capped at 16% above the retailer's price."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": "Centre separately agreed to cap cancer-drug margins at 30% (12 Oct)."
+    },
+    {
+      "id": "firecracker-restrictions",
+      "title": "Firecracker restrictions (Diwali)",
+      "category": "environment",
+      "issue": "Regulating firecrackers in Delhi-NCR: no total ban or round-the-clock use; permitted types and time windows.",
+      "parties": "Arjun Gopal v Union of India",
+      "case_nos": [
+        "W.P.(C) No. 728/2015"
+      ],
+      "match_parties": [],
+      "court": "Court No. 3",
+      "bench": [
+        "M.M. Sundresh J",
+        "Prasanna B. Varale J"
+      ],
+      "next_date": "2026-10-15",
+      "date_status": "listed",
+      "date_text": "",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Court ruled out both a total ban and 24-hour use; considering timed use of specified crackers."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": "",
+      "listing": {
+        "date": "2026-10-15",
+        "court": "Court No. 3",
+        "judges": [
+          "M.M. Sundresh J",
+          "Prasanna B. Varale J"
+        ],
+        "time": "10:30 AM",
+        "item": "25",
+        "case": "W.P.(C) No. 728/2015",
+        "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+        "matched_by": "case"
+      }
+    },
+    {
+      "id": "front-of-pack-labelling",
+      "title": "Front-of-pack food labelling",
+      "category": "health",
+      "issue": "Whether FSSAI must bring in front-of-pack warning labels on packaged food, and on what timeline.",
+      "parties": "3S and Our Health Society v Union of India",
+      "case_nos": [
+        "W.P.(C) No. 437/2024"
+      ],
+      "match_parties": [
+        "3S AND OUR HEALTH"
+      ],
+      "court": "",
+      "bench": [
+        "J.B. Pardiwala J",
+        "K. Vinod Chandran J"
+      ],
+      "next_date": null,
+      "date_status": "reserved",
+      "date_text": "Order reserved",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Order reserved after questioning FSSAI's timeline (MA 1177/2025)."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "tmc-symbol-dispute",
+      "title": "Trinamool Congress symbol dispute",
+      "category": "elections",
+      "issue": "Dispute over the Trinamool Congress party name and symbol before the Election Commission.",
+      "parties": "Mamata Banerjee v Election Commission of India",
+      "case_nos": [
+        "Diary No. 58005/2026"
+      ],
+      "match_parties": [
+        "MAMATA BANERJEE"
+      ],
+      "court": "",
+      "bench": [],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Affidavits due in 4 weeks; ECI to decide in 3 months",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Parties to file affidavits in 4 weeks; ECI to decide within 3 months."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "patent-term-from-grant",
+      "title": "Patent term where grant was delayed",
+      "category": "profession",
+      "issue": "Whether a patent's 20-year term should run from the date of grant when the Patent Office delayed deciding the application (s.53 Patents Act).",
+      "parties": "Gunjan Sinha v Union of India",
+      "case_nos": [],
+      "match_parties": [
+        "GUNJAN SINHA"
+      ],
+      "court": "",
+      "bench": [
+        "P.S. Narasimha J",
+        "Alok Aradhe J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Notice issued; next date not reported",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Notice issued."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/top-stories/s-53-patents-act-should-patent-term-be-counted-from-date-of-grant-if-there-was-delay-in-deciding-application-supreme-court-to-decide-552272",
+          "date": "2026-10-01"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "law-students-attendance",
+      "title": "Mandatory attendance for law students",
+      "category": "education",
+      "issue": "Whether law colleges can bar students short of attendance from exams, after the Delhi High Court held they cannot.",
+      "parties": "Bar Council of India v Union of India",
+      "case_nos": [],
+      "match_parties": [],
+      "court": "",
+      "bench": [],
+      "next_date": null,
+      "date_status": "reserved",
+      "date_text": "Judgment reserved on 6 Oct 2026",
+      "last_hearing": {
+        "date": "2026-10-06",
+        "outcome": "Judgment reserved."
+      },
+      "sources": [
+        {
+          "outlet": "Bar & Bench",
+          "url": "https://www.barandbench.com/news/supreme-court-reserves-verdict-on-appeals-against-removal-of-mandatory-attendance-for-law-students",
+          "date": "2026-10-06"
+        }
+      ],
+      "note": "Case number not yet confirmed."
+    },
+    {
+      "id": "rte-ews-quota",
+      "title": "RTE 25% quota for EWS admissions",
+      "category": "education",
+      "issue": "Implementation of the 25% Right to Education quota in private schools; the NCPCR's role.",
+      "parties": "Dinesh Biwaji Ashtikar v State of Maharashtra",
+      "case_nos": [
+        "SLP(C) No. 10105/2017"
+      ],
+      "match_parties": [],
+      "court": "",
+      "bench": [],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Next date not reported",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Court rebuked NCPCR; its Chairperson and Director to be present on the next date."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "capf-deputation-contempt",
+      "title": "CAPF deputation — contempt",
+      "category": "profession",
+      "issue": "Contempt over non-compliance with the judgment on deputation posts in the Central Armed Police Forces.",
+      "parties": "Mahendra Singh Deo v Govind Mohan",
+      "case_nos": [
+        "CONMT.PET.(C) No. 37/2026"
+      ],
+      "match_parties": [],
+      "court": "Court No. 9",
+      "bench": [
+        "Manoj Misra J",
+        "Ujjal Bhuyan J"
+      ],
+      "next_date": "2026-10-15",
+      "date_status": "listed",
+      "date_text": "Next date not reported",
+      "last_hearing": {
+        "date": "2026-10-01",
+        "outcome": "Heard by a special bench after the matter was deleted from the cause list; Registry questioned."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+          "date": "2026-10-04"
+        }
+      ],
+      "note": "",
+      "listing": {
+        "date": "2026-10-15",
+        "court": "Court No. 9",
+        "judges": [
+          "Manoj Misra J",
+          "Ujjal Bhuyan J"
+        ],
+        "time": "2:00 PM",
+        "item": "301",
+        "case": "CONMT.PET.(C) No. 37/2026 in C.A. No. 13106/2024",
+        "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+        "matched_by": "case"
+      }
     }
   ]
 }
