@@ -1,0 +1,534 @@
+{
+  "updated": "2026-10-15 00:59 IST",
+  "matters": [
+    {
+      "id": "waqf-amendment-act",
+      "title": "Waqf (Amendment) Act, 2025",
+      "issue": "Constitutional validity of the 2025 amendments to the Waqf Act; parts stayed by interim order of 15 Sep 2025.",
+      "parties": "In re: The Waqf (Amendment) Act, 2025",
+      "case_nos": [
+        "W.P.(C) No. 276/2025",
+        "W.P.(C) No. 269/2025"
+      ],
+      "match_parties": [],
+      "court": "Chief Justice's Court",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J"
+      ],
+      "next_date": "2026-10-15",
+      "date_status": "listed",
+      "date_text": "",
+      "last_hearing": null,
+      "sources": [
+        {
+          "outlet": "SCI cause list",
+          "url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+          "date": "2026-10-15"
+        }
+      ],
+      "note": "Item 8, Freshly / adjourned matters.",
+      "listing": {
+        "date": "2026-10-15",
+        "court": "Chief Justice's Court",
+        "judges": [
+          "Chief Justice",
+          "Joymalya Bagchi J"
+        ],
+        "time": "10:30 AM",
+        "item": "8",
+        "case": "W.P.(C) No. 276/2025",
+        "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+        "matched_by": "case"
+      }
+    },
+    {
+      "id": "delhi-protests-cec",
+      "title": "Delhi protests against the CEC and SIR",
+      "issue": "Pleas on detentions, Metro shutdown and police action during protests against CEC Gyanesh Kumar; contempt of the 11 Oct order.",
+      "parties": "M A Baby v Union of India; Shailendra Mani Tripathi v Govind Mohan",
+      "case_nos": [
+        "W.P.(C) No. 1333/2026",
+        "CONMT.PET.(C) No. 844/2026",
+        "Diary No. 63858/2026"
+      ],
+      "match_parties": [
+        "SHAILENDRA MANI TRIPATHI"
+      ],
+      "court": "Chief Justice's Court",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J"
+      ],
+      "next_date": "2026-10-15",
+      "date_status": "listed",
+      "date_text": "",
+      "last_hearing": {
+        "date": "2026-10-13",
+        "outcome": "Adjourned to 15 Oct as Mohana J was unwell."
+      },
+      "sources": [
+        {
+          "outlet": "SCI cause list",
+          "url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+          "date": "2026-10-15"
+        },
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-delhi-protests-against-cec-gyanesh-kumar-election-commission-sir-adjourned-to-october-15-justice-mohana-unwell-554413",
+          "date": "2026-10-13"
+        }
+      ],
+      "note": "Item 22 (supplementary list), with connected PILs.",
+      "listing": {
+        "date": "2026-10-15",
+        "court": "Chief Justice's Court",
+        "judges": [
+          "Chief Justice",
+          "Joymalya Bagchi J"
+        ],
+        "time": "10:30 AM",
+        "item": "22",
+        "case": "W.P.(C) No. 1333/2026",
+        "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+        "matched_by": "case"
+      }
+    },
+    {
+      "id": "delhi-sir",
+      "title": "Delhi Special Intensive Revision (SIR)",
+      "issue": "Challenge to the SIR of Delhi's electoral rolls; deleted voters being asked to file Form 6.",
+      "parties": "Anjali Bhardwaj v Election Commission of India",
+      "case_nos": [
+        "W.P.(C) No. 1188/2026"
+      ],
+      "match_parties": [
+        "ANJALI BHARDWAJ"
+      ],
+      "court": "",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J"
+      ],
+      "next_date": "2026-10-28",
+      "date_status": "fixed",
+      "date_text": "",
+      "last_hearing": {
+        "date": "2026-10-14",
+        "outcome": "Hearing advanced from 30 Oct to 28 Oct."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/amp/top-stories/supreme-court-delhi-sir-election-commission-logical-discrepancy-deleted-voters-asked-to-file-form-6-criminal-prosecution-hearing-date-advanced-554585",
+          "date": "2026-10-14"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "five-year-law-degree",
+      "title": "Duration of the five-year law degree",
+      "issue": "PIL asking whether the five-year integrated LL.B. should be cut to four years.",
+      "parties": "Ashwini Kumar Upadhyay v Union of India",
+      "case_nos": [],
+      "match_parties": [],
+      "court": "",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J",
+        "V. Mohana J"
+      ],
+      "next_date": "2026-11-11",
+      "date_status": "fixed",
+      "date_text": "",
+      "last_hearing": null,
+      "sources": [
+        {
+          "outlet": "Supreme Court Observer",
+          "url": "https://www.scobserver.in/cases/",
+          "date": "2026-10-15"
+        }
+      ],
+      "note": "Case number not yet confirmed."
+    },
+    {
+      "id": "asaram-appeal",
+      "title": "Asaram — appeal against conviction (2013 Jodhpur rape case)",
+      "issue": "Challenge to conviction and life sentence.",
+      "parties": "Asha Ram @ Ashumal v State of Rajasthan",
+      "case_nos": [
+        "SLP(Crl) No. 11761/2026"
+      ],
+      "match_parties": [
+        "ASHA ?RAM @|ASHUMAL"
+      ],
+      "court": "",
+      "bench": [
+        "J.B. Pardiwala J",
+        "K. Vinod Chandran J"
+      ],
+      "next_date": null,
+      "date_status": "tentative",
+      "date_text": "November 2026 (day not fixed)",
+      "last_hearing": {
+        "date": "2026-10-14",
+        "outcome": "\"Post this matter in November.\""
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/amp/top-stories/supreme-court-asaram-bail-ailing-wife-rape-case-554604",
+          "date": "2026-10-14"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "shanti-act",
+      "title": "SHANTI Act, 2025 — nuclear liability",
+      "issue": "Caps on operator liability and exemption of suppliers under the Act that replaced the Civil Liability for Nuclear Damage Act, 2010.",
+      "parties": "EAS Sarma v Union of India",
+      "case_nos": [
+        "W.P.(C) No. 240/2026"
+      ],
+      "match_parties": [
+        "E\\.? ?A\\.? ?S\\.? SARMA"
+      ],
+      "court": "",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J",
+        "V. Mohana J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Was listed 14 Oct 2026; next date not yet reported",
+      "last_hearing": {
+        "date": "2026-10-14",
+        "outcome": "Outcome not yet reported."
+      },
+      "sources": [
+        {
+          "outlet": "Supreme Court Observer",
+          "url": "https://www.scobserver.in/cases/challenge-to-provisions-of-the-shanti-act-2025/",
+          "date": "2026-09-01"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "marital-rape-exception",
+      "title": "Marital rape exception",
+      "issue": "Validity of Exception 2 to s.375 IPC / s.63 BNS, which excludes forced sex by a husband from rape.",
+      "parties": "RIT Foundation v Union of India and connected matters",
+      "case_nos": [],
+      "match_parties": [
+        "RIT FOUNDATION"
+      ],
+      "court": "",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J",
+        "V. Mohana J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Final hearing directed on Wednesdays/Thursdays; start date not yet confirmed",
+      "last_hearing": {
+        "date": "2026-09-09",
+        "outcome": "Directed listing for final hearing within three weeks."
+      },
+      "sources": [
+        {
+          "outlet": "Bar & Bench",
+          "url": "https://www.barandbench.com/news/litigation/marital-rape-case-supreme-court-to-decide-hearing-date-on-september-9",
+          "date": "2026-09-09"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eci-appointments-act",
+      "title": "Election Commissioners' appointment law (2023 Act)",
+      "issue": "Whether dropping the CJI from the selection panel for the CEC and ECs is valid; referred to a Constitution Bench.",
+      "parties": "Dr. Jaya Thakur v Union of India",
+      "case_nos": [],
+      "match_parties": [
+        "JAYA THAKUR"
+      ],
+      "court": "Constitution Bench (to be constituted)",
+      "bench": [],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Awaiting constitution of the Bench",
+      "last_hearing": {
+        "date": "2026-09-23",
+        "outcome": "Split order (Datta J / S.C. Sharma J); papers placed before the CJI for a Constitution Bench. 2026 INSC 1040."
+      },
+      "sources": [
+        {
+          "outlet": "Bar & Bench",
+          "url": "https://www.barandbench.com/news/sc-refers-question-of-appointment-of-election-commissioners-to-constitution-bench",
+          "date": "2026-09-23"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "cec-immunity",
+      "title": "Lifelong immunity for the CEC and ECs",
+      "issue": "Validity of s.16 of the CEC Act, 2023, which protects the CEC and ECs from proceedings for official acts.",
+      "parties": "Association for Democratic Reforms v Union of India",
+      "case_nos": [],
+      "match_parties": [
+        "ASSOCIATION FOR DEMOCRATIC REFORMS.*\\|.*UNION OF INDIA"
+      ],
+      "court": "",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J",
+        "V. Mohana J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Notice issued 13 Oct 2026; next date not reported",
+      "last_hearing": {
+        "date": "2026-10-13",
+        "outcome": "Notice issued to the Union and the ECI."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-adr-petition-against-section-16-cec-act-immunity-of-election-commissioners-notice-issued-554456",
+          "date": "2026-10-13"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "places-of-worship-act",
+      "title": "Places of Worship Act, 1991",
+      "issue": "Challenge to the law freezing the religious character of places of worship as on 15 Aug 1947; surveys and new suits barred meanwhile.",
+      "parties": "Ashwini Kumar Upadhyay v Union of India and connected matters",
+      "case_nos": [],
+      "match_parties": [],
+      "court": "",
+      "bench": [],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Final-hearing date to be fixed",
+      "last_hearing": {
+        "date": "2026-02-18",
+        "outcome": "Court said it would fix a date for final hearing."
+      },
+      "sources": [
+        {
+          "outlet": "ETV Bharat",
+          "url": "https://www.etvbharat.com/en/bharat/sc-on-pleas-challenging-places-of-worship-act-enn26021805828",
+          "date": "2026-02-18"
+        }
+      ],
+      "note": "Case number not yet confirmed."
+    },
+    {
+      "id": "bci-chair-tenure",
+      "title": "Tenure of the BCI Chairperson",
+      "issue": "Challenge to the long tenure of the Bar Council of India Chairperson; elections to State Bar Councils and the BCI.",
+      "parties": "Yogamaya M.G. v Union of India",
+      "case_nos": [],
+      "match_parties": [
+        "YOGAMAYA"
+      ],
+      "court": "",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J",
+        "V. Mohana J"
+      ],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Next date not reported",
+      "last_hearing": {
+        "date": "2026-09-02",
+        "outcome": "Chairperson to continue pro tem until fresh elections; elections to be expedited."
+      },
+      "sources": [
+        {
+          "outlet": "Supreme Court Observer",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/",
+          "date": "2026-09-30"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "jantar-mantar-denotification",
+      "title": "De-notification of Jantar Mantar as a protest site",
+      "issue": "Challenge to the 11 Oct order moving protests away from Jantar Mantar (Art. 19(1)(a) and (b)).",
+      "parties": "Swaty S. Malik v Union of India",
+      "case_nos": [],
+      "match_parties": [
+        "SWATY S\\.? ?MALIK"
+      ],
+      "court": "",
+      "bench": [],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Filed 14 Oct 2026; not yet listed",
+      "last_hearing": null,
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://livelaw.in/amp/top-stories/livelaw-breaking-news-alerts14-october-2026-554553",
+          "date": "2026-10-14"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "aravalli-definition",
+      "title": "Definition of the Aravalli Hills",
+      "issue": "Expert committee on what counts as the Aravalli hills and ranges; stay on mining continues.",
+      "parties": "In re: Definition of Aravalli Hills and Ranges",
+      "case_nos": [],
+      "match_parties": [
+        "ARAVALLI"
+      ],
+      "court": "",
+      "bench": [
+        "Chief Justice"
+      ],
+      "next_date": "2026-12-02",
+      "date_status": "fixed",
+      "date_text": "",
+      "last_hearing": {
+        "date": "2026-09-07",
+        "outcome": "Six-month extension refused; committee report due 30 Nov 2026 (non-extendable)."
+      },
+      "sources": [
+        {
+          "outlet": "LiveLaw",
+          "url": "https://www.livelaw.in/top-stories/supreme-court-rejects-six-month-extension-for-aravalli-hills-expert-panel-report-sets-november-30-deadline-548900",
+          "date": "2026-09-07"
+        }
+      ],
+      "note": "Committee report due 30 Nov 2026."
+    },
+    {
+      "id": "transgender-amendment-act",
+      "title": "Transgender Persons (Protection of Rights) Amendment Act, 2026",
+      "issue": "Constitutional validity of the 2026 amendments; High Court proceedings stayed and referred to a three-judge Bench.",
+      "parties": "Batch of writ petitions v Union of India",
+      "case_nos": [],
+      "match_parties": [
+        "AKKAI PADMASHALI"
+      ],
+      "court": "",
+      "bench": [],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Before a three-judge Bench; next date not found",
+      "last_hearing": {
+        "date": "2026-05-04",
+        "outcome": "Notice issued; no stay; referred to a three-judge Bench."
+      },
+      "sources": [
+        {
+          "outlet": "The Leaflet",
+          "url": "https://theleaflet.in/leaflet-reports/supreme-court-issues-notice-on-plea-challenging-2026-transgender-amendment-act-refers-matter-to-three-judge-bench",
+          "date": "2026-05-04"
+        }
+      ],
+      "note": "Case number and lead petitioner not yet confirmed."
+    },
+    {
+      "id": "caa",
+      "title": "Citizenship Amendment Act, 2019",
+      "issue": "Validity of the CAA and the 2024 Rules (about 240 petitions, with separate Assam and Tripura slots).",
+      "parties": "Indian Union Muslim League v Union of India",
+      "case_nos": [
+        "W.P.(C) No. 1470/2019"
+      ],
+      "match_parties": [
+        "INDIAN UNION MUSLIM LEAGUE"
+      ],
+      "court": "",
+      "bench": [],
+      "next_date": null,
+      "date_status": "not-fixed",
+      "date_text": "Final hearing was fixed for 5–12 May 2026; current status to be verified",
+      "last_hearing": null,
+      "sources": [
+        {
+          "outlet": "Law Trend",
+          "url": "https://lawtrend.in/supreme-court-schedules-final-hearing-on-constitutional-validity-of-caa-and-2024-rules-for-may-2026/",
+          "date": "2026-02-19"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "sabarimala-reference",
+      "title": "Sabarimala reference (essential religious practices)",
+      "issue": "Nine-judge reference on the scope of religious freedom and essential religious practices.",
+      "parties": "Kantaru Rajeevaru v Indian Young Lawyers Association (reference)",
+      "case_nos": [],
+      "match_parties": [
+        "KANTARU RAJEEVARU"
+      ],
+      "court": "Nine-judge Bench",
+      "bench": [],
+      "next_date": null,
+      "date_status": "reserved",
+      "date_text": "Judgment reserved on 14 May 2026",
+      "last_hearing": {
+        "date": "2026-05-14",
+        "outcome": "Judgment reserved after 16 days of arguments."
+      },
+      "sources": [
+        {
+          "outlet": "Supreme Court Observer",
+          "url": "https://www.scobserver.in/journal/2026-spring-session-review/",
+          "date": "2026-05-14"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "turnover-tax",
+      "title": "States' power to tax annual turnover",
+      "issue": "Seven-judge reference on additional tax on dealers' sales turnover.",
+      "parties": "Arjun Flour Mills v State of Orissa",
+      "case_nos": [],
+      "match_parties": [
+        "ARJUN FLOUR MILLS"
+      ],
+      "court": "Seven-judge Bench",
+      "bench": [
+        "Chief Justice",
+        "K.V. Viswanathan J",
+        "S.V.N. Bhatti J",
+        "Joymalya Bagchi J",
+        "N.V. Anjaria J",
+        "Arun Palli J",
+        "V. Mohana J"
+      ],
+      "next_date": null,
+      "date_status": "reserved",
+      "date_text": "Judgment reserved on 22 Sep 2026",
+      "last_hearing": {
+        "date": "2026-09-22",
+        "outcome": "Heard in one day; judgment reserved."
+      },
+      "sources": [
+        {
+          "outlet": "Supreme Court Observer",
+          "url": "https://www.scobserver.in/journal/monthly-review-september-2026/",
+          "date": "2026-09-30"
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

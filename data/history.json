@@ -1,0 +1,50 @@
+[
+  {
+    "id": "waqf-amendment-act",
+    "fields": {
+      "listing": {
+        "old": null,
+        "new": {
+          "date": "2026-10-15",
+          "court": "Chief Justice's Court",
+          "judges": [
+            "Chief Justice",
+            "Joymalya Bagchi J"
+          ],
+          "time": "10:30 AM",
+          "item": "8",
+          "case": "W.P.(C) No. 276/2025",
+          "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+          "matched_by": "case"
+        }
+      }
+    },
+    "source": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+    "by": "check_listings.py",
+    "at": "2026-10-15 00:59 IST"
+  },
+  {
+    "id": "delhi-protests-cec",
+    "fields": {
+      "listing": {
+        "old": null,
+        "new": {
+          "date": "2026-10-15",
+          "court": "Chief Justice's Court",
+          "judges": [
+            "Chief Justice",
+            "Joymalya Bagchi J"
+          ],
+          "time": "10:30 AM",
+          "item": "22",
+          "case": "W.P.(C) No. 1333/2026",
+          "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+          "matched_by": "case"
+        }
+      }
+    },
+    "source": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+    "by": "check_listings.py",
+    "at": "2026-10-15 00:59 IST"
+  }
+]

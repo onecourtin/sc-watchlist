@@ -1,0 +1,50 @@
+name: Check SC cause lists for watched matters
+
+on:
+  schedule:
+    # Every 2 hours, 09:00 – 23:00 IST (GitHub cron is UTC; IST = UTC+5:30).
+    # sc-cause-list refreshes its JSON every 30 min in the same window.
+    - cron: "30 3-17/2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watchlist
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tests
+        run: pip install pytest && python -m pytest -q
+
+      - name: Check listings
+        run: python check_listings.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Listing update ($(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M IST'))"
+          # The daily news routine also commits here; rebase and retry on a race.
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          done
+          echo "::error::Could not push after 3 attempts."
+          exit 1
