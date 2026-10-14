@@ -4,6 +4,7 @@
     {
       "id": "waqf-amendment-act",
       "title": "Waqf (Amendment) Act, 2025",
+      "category": "constitution",
       "issue": "Constitutional validity of the 2025 amendments to the Waqf Act; parts stayed by interim order of 15 Sep 2025.",
       "parties": "In re: The Waqf (Amendment) Act, 2025",
       "case_nos": [
@@ -45,6 +46,7 @@
     {
       "id": "delhi-protests-cec",
       "title": "Delhi protests against the CEC and SIR",
+      "category": "liberty",
       "issue": "Pleas on detentions, Metro shutdown and police action during protests against CEC Gyanesh Kumar; contempt of the 11 Oct order.",
       "parties": "M A Baby v Union of India; Shailendra Mani Tripathi v Govind Mohan",
       "case_nos": [
@@ -97,6 +99,7 @@
     {
       "id": "delhi-sir",
       "title": "Delhi Special Intensive Revision (SIR)",
+      "category": "elections",
       "issue": "Challenge to the SIR of Delhi's electoral rolls; deleted voters being asked to file Form 6.",
       "parties": "Anjali Bhardwaj v Election Commission of India",
       "case_nos": [
@@ -129,6 +132,7 @@
     {
       "id": "five-year-law-degree",
       "title": "Duration of the five-year law degree",
+      "category": "education",
       "issue": "PIL asking whether the five-year integrated LL.B. should be cut to four years.",
       "parties": "Ashwini Kumar Upadhyay v Union of India",
       "case_nos": [],
@@ -155,6 +159,7 @@
     {
       "id": "asaram-appeal",
       "title": "Asaram — appeal against conviction (2013 Jodhpur rape case)",
+      "category": "criminal",
       "issue": "Challenge to conviction and life sentence.",
       "parties": "Asha Ram @ Ashumal v State of Rajasthan",
       "case_nos": [
@@ -187,6 +192,7 @@
     {
       "id": "shanti-act",
       "title": "SHANTI Act, 2025 — nuclear liability",
+      "category": "nuclear",
       "issue": "Caps on operator liability and exemption of suppliers under the Act that replaced the Civil Liability for Nuclear Damage Act, 2010.",
       "parties": "EAS Sarma v Union of India",
       "case_nos": [
@@ -220,6 +226,7 @@
     {
       "id": "marital-rape-exception",
       "title": "Marital rape exception",
+      "category": "rights",
       "issue": "Validity of Exception 2 to s.375 IPC / s.63 BNS, which excludes forced sex by a husband from rape.",
       "parties": "RIT Foundation v Union of India and connected matters",
       "case_nos": [],
@@ -251,6 +258,7 @@
     {
       "id": "eci-appointments-act",
       "title": "Election Commissioners' appointment law (2023 Act)",
+      "category": "elections",
       "issue": "Whether dropping the CJI from the selection panel for the CEC and ECs is valid; referred to a Constitution Bench.",
       "parties": "Dr. Jaya Thakur v Union of India",
       "case_nos": [],
@@ -278,6 +286,7 @@
     {
       "id": "cec-immunity",
       "title": "Lifelong immunity for the CEC and ECs",
+      "category": "elections",
       "issue": "Validity of s.16 of the CEC Act, 2023, which protects the CEC and ECs from proceedings for official acts.",
       "parties": "Association for Democratic Reforms v Union of India",
       "case_nos": [],
@@ -309,6 +318,7 @@
     {
       "id": "places-of-worship-act",
       "title": "Places of Worship Act, 1991",
+      "category": "heritage",
       "issue": "Challenge to the law freezing the religious character of places of worship as on 15 Aug 1947; surveys and new suits barred meanwhile.",
       "parties": "Ashwini Kumar Upadhyay v Union of India and connected matters",
       "case_nos": [],
@@ -334,6 +344,7 @@
     {
       "id": "bci-chair-tenure",
       "title": "Tenure of the BCI Chairperson",
+      "category": "profession",
       "issue": "Challenge to the long tenure of the Bar Council of India Chairperson; elections to State Bar Councils and the BCI.",
       "parties": "Yogamaya M.G. v Union of India",
       "case_nos": [],
@@ -365,6 +376,7 @@
     {
       "id": "jantar-mantar-denotification",
       "title": "De-notification of Jantar Mantar as a protest site",
+      "category": "liberty",
       "issue": "Challenge to the 11 Oct order moving protests away from Jantar Mantar (Art. 19(1)(a) and (b)).",
       "parties": "Swaty S. Malik v Union of India",
       "case_nos": [],
@@ -389,6 +401,7 @@
     {
       "id": "aravalli-definition",
       "title": "Definition of the Aravalli Hills",
+      "category": "environment",
       "issue": "Expert committee on what counts as the Aravalli hills and ranges; stay on mining continues.",
       "parties": "In re: Definition of Aravalli Hills and Ranges",
       "case_nos": [],
@@ -418,6 +431,7 @@
     {
       "id": "transgender-amendment-act",
       "title": "Transgender Persons (Protection of Rights) Amendment Act, 2026",
+      "category": "rights",
       "issue": "Constitutional validity of the 2026 amendments; High Court proceedings stayed and referred to a three-judge Bench.",
       "parties": "Batch of writ petitions v Union of India",
       "case_nos": [],
@@ -445,6 +459,7 @@
     {
       "id": "caa",
       "title": "Citizenship Amendment Act, 2019",
+      "category": "citizenship",
       "issue": "Validity of the CAA and the 2024 Rules (about 240 petitions, with separate Assam and Tripura slots).",
       "parties": "Indian Union Muslim League v Union of India",
       "case_nos": [
@@ -471,6 +486,7 @@
     {
       "id": "sabarimala-reference",
       "title": "Sabarimala reference (essential religious practices)",
+      "category": "constitution",
       "issue": "Nine-judge reference on the scope of religious freedom and essential religious practices.",
       "parties": "Kantaru Rajeevaru v Indian Young Lawyers Association (reference)",
       "case_nos": [],
@@ -498,6 +514,7 @@
     {
       "id": "turnover-tax",
       "title": "States' power to tax annual turnover",
+      "category": "tax",
       "issue": "Seven-judge reference on additional tax on dealers' sales turnover.",
       "parties": "Arjun Flour Mills v State of Orissa",
       "case_nos": [],

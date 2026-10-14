@@ -24,6 +24,7 @@ LiveLaw / Bar & Bench / SCO / SCI ──► daily Claude routine (8 PM IST, week
 |---|---|
 | `id` | Stable slug. Never change it. |
 | `title`, `issue`, `parties` | Short name, one-line question, cause title. |
+| `category` | Subject icon on the page: `elections` · `liberty` · `constitution` · `heritage` · `education` · `criminal` · `nuclear` · `rights` · `profession` · `environment` · `citizenship` · `tax`. |
 | `case_nos` | Case numbers **as printed in SCI lists** (`W.P.(C) No. 276/2025`, `Diary No. 63858/2026`). Used for matching. |
 | `match_parties` | Regexes tried against `"PETITIONER \| RESPONDENT"` in the list. Only distinctive names; prefer `case_nos`. |
 | `court`, `bench` | e.g. `Chief Justice's Court`, `["Chief Justice", "Joymalya Bagchi J"]`. |
@@ -43,5 +44,5 @@ LiveLaw / Bar & Bench / SCO / SCI ──► daily Claude routine (8 PM IST, week
 4. After a hearing date passes, find what happened (adjourned / part-heard / reserved / decided / new date) and update `last_hearing`, `next_date`, `date_status`. If nothing is reported yet, leave the record and set `note` to "Outcome of <date> hearing not yet reported".
 5. Never delete a matter. A decided matter gets `date_status: "decided"` and the outcome in `last_hearing`; the page moves it to "Recently concluded".
 6. Fill in missing `case_nos` when a source gives them (they make the cause-list check work).
-7. Log every change in `history.json` (`{at, id, fields: {f: {old, new}}, source, by: "routine"}`) and update `updated` in `matters.json`.
+7. Log only real changes (old ≠ new) — never write a history entry for an unchanged field. Log every change in `history.json` (`{at, id, fields: {f: {old, new}}, source, by: "routine"}`) and update `updated` in `matters.json`.
 8. New matters are **not** added directly. On Mondays, open a GitHub issue "Proposed matters — <date>" listing candidates with sources; add them only after the owner approves.
