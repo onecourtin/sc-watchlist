@@ -399,5 +399,110 @@
     },
     "source": "https://www.barandbench.com/news/this-matter-is-jinxed-supreme-court-on-repeated-adjournments-in-krishna-janmabhoomi-shahi-idgah-dispute-plea",
     "by": "owner"
+  },
+  {
+    "at": "2026-10-15 15:34 IST",
+    "id": "jantar-mantar-denotification",
+    "fields": {
+      "parties": {
+        "old": "Swaty S. Malik v Union of India",
+        "new": "Swaty Singh v Union of India & Anr."
+      },
+      "case_nos": {
+        "old": [],
+        "new": [
+          "W.P.(C) No. 1357/2026"
+        ]
+      },
+      "match_parties": {
+        "old": [
+          "SWATY S\\.? ?MALIK"
+        ],
+        "new": [
+          "SWATY SINGH"
+        ]
+      },
+      "bench": {
+        "old": [],
+        "new": [
+          "Chief Justice",
+          "Joymalya Bagchi J"
+        ]
+      },
+      "date_text": {
+        "old": "Filed 14 Oct 2026; not yet listed",
+        "new": "Notice issued 15 Oct 2026; next date not yet reported"
+      },
+      "last_hearing": {
+        "old": null,
+        "new": {
+          "date": "2026-10-15",
+          "outcome": "Notice issued; Centre to reply. Court asked whether the de-notification relied on its own oral observations; SG said the Court's judgment was not the basis."
+        }
+      },
+      "sources": {
+        "old": [
+          {
+            "outlet": "LiveLaw",
+            "url": "https://livelaw.in/amp/top-stories/livelaw-breaking-news-alerts14-october-2026-554553",
+            "date": "2026-10-14"
+          }
+        ],
+        "new": [
+          {
+            "outlet": "Bar & Bench",
+            "url": "https://www.barandbench.com/news/litigation/was-our-order-relied-upon-to-de-notify-jantar-mantar-as-protest-site-supreme-court-seeks-centres-response",
+            "date": "2026-10-15"
+          },
+          {
+            "outlet": "LiveLaw",
+            "url": "https://livelaw.in/amp/top-stories/livelaw-breaking-news-alerts14-october-2026-554553",
+            "date": "2026-10-14"
+          }
+        ]
+      },
+      "note": {
+        "old": "",
+        "new": "Notice also issued on a connected petition on the same subject."
+      }
+    },
+    "source": "https://www.barandbench.com/news/litigation/was-our-order-relied-upon-to-de-notify-jantar-mantar-as-protest-site-supreme-court-seeks-centres-response",
+    "by": "owner"
+  },
+  {
+    "id": "jantar-mantar-denotification",
+    "fields": {
+      "next_date": {
+        "old": null,
+        "new": "2026-10-15"
+      },
+      "date_status": {
+        "old": "not-fixed",
+        "new": "listed"
+      },
+      "court": {
+        "old": "",
+        "new": "Chief Justice's Court"
+      },
+      "listing": {
+        "old": null,
+        "new": {
+          "date": "2026-10-15",
+          "court": "Chief Justice's Court",
+          "judges": [
+            "Chief Justice",
+            "Joymalya Bagchi J"
+          ],
+          "time": "10:30 AM",
+          "item": "31",
+          "case": "W.P.(C) No. 1357/2026",
+          "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+          "matched_by": "case"
+        }
+      }
+    },
+    "source": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+    "by": "check_listings.py",
+    "at": "2026-10-15 15:34 IST"
   }
 ]

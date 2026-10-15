@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 01:52 IST",
+  "updated": "2026-10-15 15:34 IST",
   "matters": [
     {
       "id": "waqf-amendment-act",
@@ -423,25 +423,51 @@
       "title": "De-notification of Jantar Mantar as a protest site",
       "category": "liberty",
       "issue": "Challenge to the 11 Oct order moving protests away from Jantar Mantar (Art. 19(1)(a) and (b)).",
-      "parties": "Swaty S. Malik v Union of India",
-      "case_nos": [],
-      "match_parties": [
-        "SWATY S\\.? ?MALIK"
+      "parties": "Swaty Singh v Union of India & Anr.",
+      "case_nos": [
+        "W.P.(C) No. 1357/2026"
       ],
-      "court": "",
-      "bench": [],
-      "next_date": null,
-      "date_status": "not-fixed",
-      "date_text": "Filed 14 Oct 2026; not yet listed",
-      "last_hearing": null,
+      "match_parties": [
+        "SWATY SINGH"
+      ],
+      "court": "Chief Justice's Court",
+      "bench": [
+        "Chief Justice",
+        "Joymalya Bagchi J"
+      ],
+      "next_date": "2026-10-15",
+      "date_status": "listed",
+      "date_text": "Notice issued 15 Oct 2026; next date not yet reported",
+      "last_hearing": {
+        "date": "2026-10-15",
+        "outcome": "Notice issued; Centre to reply. Court asked whether the de-notification relied on its own oral observations; SG said the Court's judgment was not the basis."
+      },
       "sources": [
+        {
+          "outlet": "Bar & Bench",
+          "url": "https://www.barandbench.com/news/litigation/was-our-order-relied-upon-to-de-notify-jantar-mantar-as-protest-site-supreme-court-seeks-centres-response",
+          "date": "2026-10-15"
+        },
         {
           "outlet": "LiveLaw",
           "url": "https://livelaw.in/amp/top-stories/livelaw-breaking-news-alerts14-october-2026-554553",
           "date": "2026-10-14"
         }
       ],
-      "note": ""
+      "note": "Notice also issued on a connected petition on the same subject.",
+      "listing": {
+        "date": "2026-10-15",
+        "court": "Chief Justice's Court",
+        "judges": [
+          "Chief Justice",
+          "Joymalya Bagchi J"
+        ],
+        "time": "10:30 AM",
+        "item": "31",
+        "case": "W.P.(C) No. 1357/2026",
+        "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+        "matched_by": "case"
+      }
     },
     {
       "id": "aravalli-definition",
