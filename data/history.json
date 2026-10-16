@@ -884,5 +884,42 @@
     },
     "source": "https://www.livelaw.in/amp/top-stories/theres-stark-non-compliance-with-direction-for-cadre-review-of-capfs-says-supreme-court-555020",
     "by": "manual catch-up (routine blocked)"
+  },
+  {
+    "at": "2026-10-17 02:07 IST",
+    "id": "asaram-appeal",
+    "fields": {
+      "next_date": {
+        "old": null,
+        "new": "2026-11-06"
+      },
+      "date_text": {
+        "old": "November 2026 (day not fixed)",
+        "new": "6 Nov, 2 PM per LawBeat; the order (LiveLaw) says only \"Post this matter in November\""
+      },
+      "sources": {
+        "old": [
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/amp/top-stories/supreme-court-asaram-bail-ailing-wife-rape-case-554604",
+            "date": "2026-10-14"
+          }
+        ],
+        "new": [
+          {
+            "outlet": "LawBeat",
+            "url": "https://lawbeat.in/top-stories/asaram-bapu-supreme-court-to-hear-appeal-against-conviction-on-november-6-after-parole-ends-1641641",
+            "date": "2026-10-14"
+          },
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/amp/top-stories/supreme-court-asaram-bail-ailing-wife-rape-case-554604",
+            "date": "2026-10-14"
+          }
+        ]
+      }
+    },
+    "source": "https://lawbeat.in/top-stories/asaram-bapu-supreme-court-to-hear-appeal-against-conviction-on-november-6-after-parole-ends-1641641",
+    "by": "manual"
   }
 ]

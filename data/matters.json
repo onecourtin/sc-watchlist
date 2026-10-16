@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17 02:00 IST",
+  "updated": "2026-10-17 02:07 IST",
   "matters": [
     {
       "id": "waqf-amendment-act",
@@ -210,14 +210,19 @@
         "J.B. Pardiwala J",
         "K. Vinod Chandran J"
       ],
-      "next_date": null,
+      "next_date": "2026-11-06",
       "date_status": "tentative",
-      "date_text": "November 2026 (day not fixed)",
+      "date_text": "6 Nov, 2 PM per LawBeat; the order (LiveLaw) says only \"Post this matter in November\"",
       "last_hearing": {
         "date": "2026-10-14",
         "outcome": "\"Post this matter in November.\""
       },
       "sources": [
+        {
+          "outlet": "LawBeat",
+          "url": "https://lawbeat.in/top-stories/asaram-bapu-supreme-court-to-hear-appeal-against-conviction-on-november-6-after-parole-ends-1641641",
+          "date": "2026-10-14"
+        },
         {
           "outlet": "LiveLaw",
           "url": "https://www.livelaw.in/amp/top-stories/supreme-court-asaram-bail-ailing-wife-rape-case-554604",
