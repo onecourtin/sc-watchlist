@@ -504,5 +504,385 @@
     "source": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
     "by": "check_listings.py",
     "at": "2026-10-15 15:34 IST"
+  },
+  {
+    "at": "2026-10-17 02:00 IST",
+    "id": "waqf-amendment-act",
+    "fields": {
+      "next_date": {
+        "old": "2026-10-15",
+        "new": "2026-11-04"
+      },
+      "date_status": {
+        "old": "listed",
+        "new": "fixed"
+      },
+      "court": {
+        "old": "Chief Justice's Court",
+        "new": ""
+      },
+      "last_hearing": {
+        "old": null,
+        "new": {
+          "date": "2026-10-15",
+          "outcome": "Petitioners flagged changes in the status of waqf properties; Court will hear the challenge, including pleas for further interim relief, on 4 Nov."
+        }
+      },
+      "note": {
+        "old": "Item 8, Freshly / adjourned matters.",
+        "new": ""
+      },
+      "sources": {
+        "old": [
+          {
+            "outlet": "SCI cause list",
+            "url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+            "date": "2026-10-15"
+          }
+        ],
+        "new": [
+          {
+            "outlet": "Bar & Bench",
+            "url": "https://www.barandbench.com/news/supreme-court-to-hear-waqf-amendment-case-on-november-4-after-petitioners-flag-change-in-status-of-properties",
+            "date": "2026-10-15"
+          },
+          {
+            "outlet": "SCI cause list",
+            "url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+            "date": "2026-10-15"
+          }
+        ]
+      },
+      "listing": {
+        "old": {
+          "date": "2026-10-15",
+          "court": "Chief Justice's Court",
+          "judges": [
+            "Chief Justice",
+            "Joymalya Bagchi J"
+          ],
+          "time": "10:30 AM",
+          "item": "8",
+          "case": "W.P.(C) No. 276/2025",
+          "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+          "matched_by": "case"
+        },
+        "new": null
+      }
+    },
+    "source": "https://www.barandbench.com/news/supreme-court-to-hear-waqf-amendment-case-on-november-4-after-petitioners-flag-change-in-status-of-properties",
+    "by": "manual catch-up (routine blocked)"
+  },
+  {
+    "at": "2026-10-17 02:00 IST",
+    "id": "delhi-protests-cec",
+    "fields": {
+      "next_date": {
+        "old": "2026-10-15",
+        "new": "2026-11-03"
+      },
+      "date_status": {
+        "old": "listed",
+        "new": "fixed"
+      },
+      "court": {
+        "old": "Chief Justice's Court",
+        "new": ""
+      },
+      "last_hearing": {
+        "old": {
+          "date": "2026-10-13",
+          "outcome": "Adjourned to 15 Oct as Mohana J was unwell."
+        },
+        "new": {
+          "date": "2026-10-15",
+          "outcome": "Challenge to s.163 BNSS itself not entertained; notice on s.172 BNSS (returnable 19 Nov); Delhi Police to file the s.163 orders and preserve CCTV footage."
+        }
+      },
+      "note": {
+        "old": "Item 22 (supplementary list), with connected PILs.",
+        "new": "Also: 5 Nov — women journalists' harassment plea; 19 Nov — s.172 BNSS and the s.163 prohibitory orders."
+      },
+      "sources": {
+        "old": [
+          {
+            "outlet": "SCI cause list",
+            "url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+            "date": "2026-10-15"
+          },
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/top-stories/supreme-court-delhi-protests-against-cec-gyanesh-kumar-election-commission-sir-adjourned-to-october-15-justice-mohana-unwell-554413",
+            "date": "2026-10-13"
+          }
+        ],
+        "new": [
+          {
+            "outlet": "Bar & Bench",
+            "url": "https://www.barandbench.com/news/delhi-protests-supreme-court-declines-to-entertain-challenge-to-section-163-bnss",
+            "date": "2026-10-16"
+          },
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/top-stories/delhi-protests-supreme-court-directs-police-to-produce-prohibitory-orders-under-s-163-bnss-preserve-cctv-footage-554828",
+            "date": "2026-10-15"
+          },
+          {
+            "outlet": "SCI cause list",
+            "url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+            "date": "2026-10-15"
+          },
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/top-stories/supreme-court-delhi-protests-against-cec-gyanesh-kumar-election-commission-sir-adjourned-to-october-15-justice-mohana-unwell-554413",
+            "date": "2026-10-13"
+          }
+        ]
+      },
+      "listing": {
+        "old": {
+          "date": "2026-10-15",
+          "court": "Chief Justice's Court",
+          "judges": [
+            "Chief Justice",
+            "Joymalya Bagchi J"
+          ],
+          "time": "10:30 AM",
+          "item": "22",
+          "case": "W.P.(C) No. 1333/2026",
+          "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+          "matched_by": "case"
+        },
+        "new": null
+      }
+    },
+    "source": "https://www.barandbench.com/news/delhi-protests-supreme-court-declines-to-entertain-challenge-to-section-163-bnss",
+    "by": "manual catch-up (routine blocked)"
+  },
+  {
+    "at": "2026-10-17 02:00 IST",
+    "id": "rahul-gandhi-sir",
+    "fields": {
+      "next_date": {
+        "old": "2026-10-15",
+        "new": "2026-10-27"
+      },
+      "date_status": {
+        "old": "listed",
+        "new": "fixed"
+      },
+      "court": {
+        "old": "Chief Justice's Court",
+        "new": ""
+      },
+      "last_hearing": {
+        "old": {
+          "date": "2026-10-12",
+          "outcome": "Petition filed by Rahul Gandhi with ten other INDIA bloc leaders."
+        },
+        "new": {
+          "date": "2026-10-15",
+          "outcome": "Notice issued to the ECI, the CEC and the Election Commissioners; SIR petitions to be heard together on 27 Oct."
+        }
+      },
+      "note": {
+        "old": "Fresh matter (for admission); with an intervention application.",
+        "new": ""
+      },
+      "sources": {
+        "old": [
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/top-stories/opposition-leader-rahul-gandhi-files-writ-petition-in-supreme-court-against-eci-over-sir-process-554285",
+            "date": "2026-10-12"
+          }
+        ],
+        "new": [
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/amp/top-stories/rahul-gandhi-others-v-election-commission-of-india-live-updates-from-supreme-court-554720",
+            "date": "2026-10-15"
+          },
+          {
+            "outlet": "Bar & Bench",
+            "url": "https://www.barandbench.com/news/delhi-protests-supreme-court-declines-to-entertain-challenge-to-section-163-bnss",
+            "date": "2026-10-16"
+          },
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/top-stories/opposition-leader-rahul-gandhi-files-writ-petition-in-supreme-court-against-eci-over-sir-process-554285",
+            "date": "2026-10-12"
+          }
+        ]
+      },
+      "listing": {
+        "old": {
+          "date": "2026-10-15",
+          "court": "Chief Justice's Court",
+          "judges": [
+            "Chief Justice",
+            "Joymalya Bagchi J"
+          ],
+          "time": "10:30 AM",
+          "item": "25",
+          "case": "W.P.(C) No. 1351/2026",
+          "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+          "matched_by": "case"
+        },
+        "new": null
+      }
+    },
+    "source": "https://www.livelaw.in/amp/top-stories/rahul-gandhi-others-v-election-commission-of-india-live-updates-from-supreme-court-554720",
+    "by": "manual catch-up (routine blocked)"
+  },
+  {
+    "at": "2026-10-17 02:00 IST",
+    "id": "jantar-mantar-denotification",
+    "fields": {
+      "next_date": {
+        "old": "2026-10-15",
+        "new": "2026-11-03"
+      },
+      "date_status": {
+        "old": "listed",
+        "new": "fixed"
+      },
+      "date_text": {
+        "old": "Notice issued 15 Oct 2026; next date not yet reported",
+        "new": ""
+      },
+      "note": {
+        "old": "Notice also issued on a connected petition on the same subject.",
+        "new": "Heard with the Delhi protest batch on 3 Nov."
+      },
+      "sources": {
+        "old": [
+          {
+            "outlet": "Bar & Bench",
+            "url": "https://www.barandbench.com/news/litigation/was-our-order-relied-upon-to-de-notify-jantar-mantar-as-protest-site-supreme-court-seeks-centres-response",
+            "date": "2026-10-15"
+          },
+          {
+            "outlet": "LiveLaw",
+            "url": "https://livelaw.in/amp/top-stories/livelaw-breaking-news-alerts14-october-2026-554553",
+            "date": "2026-10-14"
+          }
+        ],
+        "new": [
+          {
+            "outlet": "Bar & Bench",
+            "url": "https://www.barandbench.com/news/delhi-protests-supreme-court-declines-to-entertain-challenge-to-section-163-bnss",
+            "date": "2026-10-16"
+          },
+          {
+            "outlet": "Bar & Bench",
+            "url": "https://www.barandbench.com/news/litigation/was-our-order-relied-upon-to-de-notify-jantar-mantar-as-protest-site-supreme-court-seeks-centres-response",
+            "date": "2026-10-15"
+          },
+          {
+            "outlet": "LiveLaw",
+            "url": "https://livelaw.in/amp/top-stories/livelaw-breaking-news-alerts14-october-2026-554553",
+            "date": "2026-10-14"
+          }
+        ]
+      },
+      "listing": {
+        "old": {
+          "date": "2026-10-15",
+          "court": "Chief Justice's Court",
+          "judges": [
+            "Chief Justice",
+            "Joymalya Bagchi J"
+          ],
+          "time": "10:30 AM",
+          "item": "31",
+          "case": "W.P.(C) No. 1357/2026",
+          "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_2.pdf",
+          "matched_by": "case"
+        },
+        "new": null
+      }
+    },
+    "source": "https://www.barandbench.com/news/delhi-protests-supreme-court-declines-to-entertain-challenge-to-section-163-bnss",
+    "by": "manual catch-up (routine blocked)"
+  },
+  {
+    "at": "2026-10-17 02:00 IST",
+    "id": "firecracker-restrictions",
+    "fields": {
+      "note": {
+        "old": "",
+        "new": "Outcome of 15 Oct hearing not yet reported."
+      }
+    },
+    "source": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+    "by": "manual catch-up (routine blocked)"
+  },
+  {
+    "at": "2026-10-17 02:00 IST",
+    "id": "capf-deputation-contempt",
+    "fields": {
+      "next_date": {
+        "old": "2026-10-15",
+        "new": "2026-10-28"
+      },
+      "date_status": {
+        "old": "listed",
+        "new": "fixed"
+      },
+      "date_text": {
+        "old": "Next date not reported",
+        "new": ""
+      },
+      "last_hearing": {
+        "old": {
+          "date": "2026-10-01",
+          "outcome": "Heard by a special bench after the matter was deleted from the cause list; Registry questioned."
+        },
+        "new": {
+          "date": "2026-10-15",
+          "outcome": "\"Stark\" non-compliance with the Sanjay Prakash (2025) cadre-review directions; Centre to produce files on action taken under the 23 May 2025 order."
+        }
+      },
+      "sources": {
+        "old": [
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+            "date": "2026-10-04"
+          }
+        ],
+        "new": [
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/amp/top-stories/theres-stark-non-compliance-with-direction-for-cadre-review-of-capfs-says-supreme-court-555020",
+            "date": "2026-10-16"
+          },
+          {
+            "outlet": "LiveLaw",
+            "url": "https://www.livelaw.in/round-ups/supreme-court-weekly-roundup-september-28-2026-to-october-4-2026-554032",
+            "date": "2026-10-04"
+          }
+        ]
+      },
+      "listing": {
+        "old": {
+          "date": "2026-10-15",
+          "court": "Court No. 9",
+          "judges": [
+            "Manoj Misra J",
+            "Ujjal Bhuyan J"
+          ],
+          "time": "2:00 PM",
+          "item": "301",
+          "case": "CONMT.PET.(C) No. 37/2026 in C.A. No. 13106/2024",
+          "list_url": "https://api.sci.gov.in/jonew/cl/2026-10-15/M_J_1.pdf",
+          "matched_by": "case"
+        },
+        "new": null
+      }
+    },
+    "source": "https://www.livelaw.in/amp/top-stories/theres-stark-non-compliance-with-direction-for-cadre-review-of-capfs-says-supreme-court-555020",
+    "by": "manual catch-up (routine blocked)"
   }
 ]
